@@ -1,0 +1,373 @@
+package,category,subcategory
+net.one97.paytm,Payment,wallet/UPI
+com.google.android.gms.policy_cast_dynamite,Utilities,cast support service
+androidx.test.orchestrator,Utilities,testing framework
+androidx.test.services,Utilities,testing framework
+com.google.android.apps.common.testing.services,Utilities,testing framework
+in.org.npci.upiapp,Payment,wallet/UPI (BHIM)
+com.google.android.apps.nbu.paisa.user,Payment,wallet/UPI (Google Pay)
+com.phonepe.app,Payment,wallet/UPI
+in.amazon.mShop.android.shopping,Shopping,e-commerce marketplace
+com.freecharge.android,Payment,wallet/UPI
+com.upi.axispay,Payment,wallet/UPI
+com.mobikwik_new,Payment,wallet/UPI
+com.google.android.apps.maps,Navigation,maps & navigation
+com.truecaller,Messaging,caller ID & spam block
+com.truecaller.debug,Messaging,caller ID & spam block
+com.zepto.rider,Delivery,delivery partner app
+in.swiggy.deliveryapp,Delivery,delivery partner app
+com.zomato.delivery,Delivery,delivery partner app
+app.blinkit.onboarding,Delivery,delivery partner app
+runner.dunzo.com.dunzo_runner,Delivery,delivery partner app
+com.carthero.driver,Delivery,delivery partner app
+com.whatsapp,Messaging,chat messenger
+in.shadowfax.gandalf,Delivery,courier partner app
+global.dostavista.courier,Delivery,courier partner app
+com.theporter.android.driverapp,Delivery,courier partner app
+com.loadshare.deliveryapp,Delivery,courier partner app
+com.rapido.rider,Transport,ride-hailing driver
+com.zeptoconsumerapp,Delivery,grocery delivery
+com.instagram.android,Social,photo/video sharing
+com.twitter.android,Social,microblogging
+com.facebook.katana,Social,social network
+com.mohalla.sharechat,Messaging,caller ID & spam block
+com.google.android.apps.tv.launcherx,Utilities,TV interface
+com.google.android.tvlauncher,Utilities,TV interface
+com.google.android.tvrecommendations,Utilities,TV interface
+com.paytmmall,Shopping,e-commerce marketplace
+com.csam.icici.bank.imobile,Finance,mobile banking
+com.sbi.upi,Payment,wallet/UPI
+com.myairtelapp,Utilities,telecom services
+com.icicibank.pockets,Payment,wallet/UPI
+com.snapwork.hdfc,Finance,mobile banking
+com.enstage.wibmo.hdfc,Payment,wallet/UPI (HDFC PayZapp)
+com.mobikwik_new,Payment,wallet/UPI
+com.upi.axispay,Payment,wallet/UPI
+com.axis.mobile,Finance,mobile banking
+com.freecharge.android,Payment,wallet/UPI
+com.samsung.android.spaymini,Payment,mobile payments (Samsung Pay Mini)
+com.samsung.android.spay,Payment,mobile payments (Samsung Pay)
+com.dreamplug.androidapp,Finance,credit card payments (CRED)
+com.bankofbaroda.upi,Payment,UPI payments
+com.whatsapp.w4b,Messaging,business chat
+com.fss.pnbpsp,Payment,UPI payments
+com.fss.unbipsp,Payment,UPI payments
+com.mycompany.kvb,Finance,mobile banking
+com.fss.vijayapsp,Payment,UPI payments
+com.dena.upi.gui,Payment,UPI payments
+com.fss.jnkpsp,Payment,UPI payments
+com.olive.kotak.upi,Payment,UPI payments
+com.bsb.hike,Messaging,chat messenger
+com.fss.idfcpsp,Payment,UPI payments
+com.YesBank,Finance,mobile banking
+com.abipbl.upi,Payment,UPI payments
+com.microsoft.mobile.polymer,Messaging,chat messenger (Kaizala)
+com.finopaytech.bpayfino,Payment,UPI payments
+com.mgs.obcbank,Payment,UPI payments
+com.upi.federalbank.org.lotza,Payment,UPI payments
+com.mgs.induspsp,Payment,UPI payments
+ai.wizely.android,Finance,personal finance
+com.olive.dcb.upi,Payment,UPI payments
+com.mgs.yesmerchantnative.prod,Payment,UPI payments
+com.dbs.in.digitalbank,Finance,mobile banking
+com.rblbank.mobank,Finance,mobile banking
+in.chillr,Payment,UPI payments
+com.citrus.citruspay,Payment,wallet/UPI
+com.SIBMobile,Finance,mobile banking
+com.mipay.wallet.in,Payment,wallet/UPI (Mi Pay)
+com.whatsapp,Messaging,chat messenger
+com.olacabs.customer,Transport,ride-hailing (taxi)
+com.gbwhatsapp,Messaging,unofficial chat mod
+com.msf.angelmobile,Finance,stock trading
+com.fundsindia,Finance,investments
+com.muthootfinance.imuthoot,Finance,loans & services
+com.angelbroking.angelwealth,Finance,stock trading
+org.altruist.BajajExperia,Finance,loans & services
+in.bajajfinservmarkets.app,Finance,financial services marketplace
+com.ixigo,Others,unknown
+us.zoom.videomeetings,Messaging,video conferencing
+com.google.android.apps.tachyon,Messaging,video conferencing
+com.cisco.webex.meetings,Messaging,video conferencing
+com.microsoft.teams,Messaging,team collaboration
+com.teamviewer.blizz.market,Messaging,video conferencing
+com.anydesk.anydeskandroid,Messaging,remote access
+com.microsoft.rdc.androidx,Messaging,remote desktop
+de.robv.android.xposed.installer,Utilities,system modding
+com.saurik.substrate,Utilities,system modding
+de.robv.android.xposed,Utilities,system modding
+com.android.vending,Utilities,app store
+com.google.android.gm,Messaging,email
+com.google.android.youtube,Entertainment,video sharing/streaming
+com.google.android.apps.maps,Navigation,maps & navigation
+com.instagram.android,Social,photo/video sharing
+com.twitter.android,Social,microblogging
+com.jio.myjio,Utilities,telecom services
+com.myairtelapp,Utilities,telecom services
+com.phonepe.app,Payment,wallet/UPI
+com.google.android.apps.nbu.paisa.user,Payment,wallet/UPI (Google Pay)
+net.one97.paytm,Payment,wallet/UPI
+in.amazon.mShop.android.shopping,Shopping,e-commerce marketplace
+com.flipkart.android,Shopping,e-commerce marketplace
+com.sbi.lotusintouch,Others,unknown
+com.ubercab,Transport,ride-hailing (taxi)
+virtual.camera.app,Utilities,camera utility
+multispace.multiapp.clone.app.pro,Utilities,app cloner
+multispace.multiapp.clone.app,Utilities,app cloner
+com.clone.android.dual.space,Utilities,app cloner
+com.box.app.virtual,Utilities,app cloner
+id.bureau.sdkdemo.debug,Utilities,SDK demo
+id.bureau.sdkdemo,Utilities,SDK demo
+id.bureau.deviceintelligence,Utilities,SDK demo
+in.shadowfax.gandalf,Delivery,courier partner app
+com.rapido.rider,Transport,ride-hailing driver
+runner.dunzo.com.dunzo_runner,Delivery,delivery partner app
+com.ZeptoPartner.apps,Delivery,delivery partner app
+com.zomato.delivery,Delivery,delivery partner app
+com.olacabs.oladriver,Transport,ride-hailing driver
+com.ubercab.driver,Transport,ride-hailing driver
+app.blinkit.onboarding,Delivery,delivery partner app
+com.amazon.flex.rabbit,Delivery,delivery partner app
+com.ekartkiranaonboarding,Delivery,delivery partner app
+com.theporter.android.driverapp,Delivery,courier partner app
+com.zepto.rider,Delivery,delivery partner app
+com.application.zomato,Delivery,restaurant food delivery
+com.rapido.passenger,Transport,bike taxi
+com.olacabs.customer,Transport,ride-hailing (taxi)
+in.amazon.mShop.android.shopping,Shopping,e-commerce marketplace
+com.flipkart.android,Shopping,e-commerce marketplace
+com.grofers.customerapp,Delivery,grocery delivery
+com.zeptoconsumerapp,Delivery,grocery delivery
+com.google.android.apps.nbu.paisa.user,Payment,wallet/UPI (Google Pay)
+com.phonepe.app,Payment,wallet/UPI
+net.one97.paytm,Payment,wallet/UPI
+in.org.npci.upiapp,Payment,wallet/UPI (BHIM)
+com.dreamplug.androidapp,Finance,credit card payments (CRED)
+com.facebook.katana,Social,social network
+com.instagram.android,Social,photo/video sharing
+com.twitter.android,Social,microblogging
+com.snapchat.android,Social,photo messaging
+com.linkedin.android,Social,professional networking
+org.telegram.messenger,Messaging,chat messenger
+com.whatsapp,Messaging,chat messenger
+com.whatsapp.w4b,Messaging,business chat
+com.netflix.mediaclient,Entertainment,video streaming
+com.amazon.avod.thirdpartyclient,Entertainment,video streaming (Prime Video)
+in.startv.hotstar,Entertainment,video streaming
+com.ludo.king,Gaming,casual board game
+com.pubg.imobile,Gaming,action game (battle royale)
+com.miniclip.eightballpool,Gaming,sports game (billiards)
+com.miniclip.carrom,Gaming,casual board game
+com.dream11.fantasy.cricket.football.kabaddi,Gaming,fantasy sports
+com.mpl.androidapp.cash,Gaming,gaming platform
+com.zerodha.kite,Finance,stock trading
+in.upstox.app,Finance,stock trading
+com.msf.angelmobile,Finance,stock trading
+com.nextbillion.groww,Finance,investments
+com.citrus.citruspay,Payment,wallet/UPI
+com.kreditbee.android,Finance,instant loan
+com.earlysalary.android,Finance,instant loan
+com.gopaysense.android.boost,Finance,instant loan
+com.mycash.moneytap.app,Finance,instant loan
+com.android.chrome,Utilities,web browser
+com.facebook.katana,Social,social network
+com.instagram.android,Social,photo/video sharing
+com.twitter.android,Social,microblogging
+com.jio.myjio,Utilities,telecom services
+com.myairtelapp,Utilities,telecom services
+com.phonepe.app,Payment,wallet/UPI
+com.google.android.apps.nbu.paisa.user,Payment,wallet/UPI (Google Pay)
+net.one97.paytm,Payment,wallet/UPI
+in.amazon.mShop.android.shopping,Shopping,e-commerce marketplace
+com.flipkart.android,Shopping,e-commerce marketplace
+com.sbi.lotusintouch,Others,unknown
+com.olacabs.customer,Transport,ride-hailing (taxi)
+com.ubercab,Transport,ride-hailing (taxi)
+com.ubercab.driver,Transport,ride-hailing driver
+com.olacabs.oladriver,Transport,ride-hailing driver
+com.rapido.passenger,Transport,bike taxi
+com.rapido.rider,Transport,ride-hailing driver
+com.zeptoconsumerapp,Delivery,grocery delivery
+com.grofers.customerapp,Delivery,grocery delivery
+com.application.zomato,Delivery,restaurant food delivery
+com.amazon.flex.rabbit,Delivery,delivery partner app
+com.ekartkiranaonboarding,Delivery,delivery partner app
+com.bigbasket.saathi,Delivery,delivery partner app
+com.jio.media.ondemand,Entertainment,video streaming
+com.jio.media.jiobeats,Entertainment,music streaming
+com.jio.jiogames,Entertainment,game platform
+com.jiochat.jiochatapp,Messaging,chat messenger
+com.jio.jiopay.upi,Payment,wallet/UPI
+com.jio.enterprise.jiopay,Payment,wallet/UPI
+com.jio.jiostreamminisdk,Entertainment,video streaming
+com.tatadigital.tcp.dev,Shopping,super-app (shopping & payments)
+com.tatadigital.tcp,Shopping,super-app (shopping & payments)
+com.facebook.katana,Social,social network
+com.instagram.android,Social,photo/video sharing
+com.google.android.apps.maps,Navigation,maps & navigation
+com.google.ar.core,Utilities,augmented reality service
+com.mygate.user,Others,unknown
+com.whizdm.moneyview.loans,Finance,instant loan
+org.telegram.messenger,Messaging,chat messenger
+jp.naver.line.android,Messaging,chat messenger
+com.michatapp.im,Messaging,chat messenger
+com.discord,Messaging,community chat
+com.Slack,Messaging,team collaboration
+com.viber.voip,Messaging,chat messenger
+com.thankyo.hwgame,Gaming,casual game
+mydiary.journal.diary.diarywithlock.diaryjournal.secretdiary,Lifestyle,personal diary
+com.phocket,Finance,instant loan
+com.awt.kalnirnay,Lifestyle,calendar & almanac
+com.loanpro.superfastloan.app,Finance,instant loan
+com.estar.loan,Finance,instant loan
+com.loanit.app,Finance,instant loan
+com.rong360.android_abroad_loans,Finance,instant loan
+com.ziploan.borrower,Finance,instant loan
+com.matualapps.loanmoney.instantloantips,Finance,instant loan
+com.longingloan,Finance,instant loan
+com.panloanapp.activityapp,Finance,instant loan
+com.loanpelite.loanapp,Finance,instant loan
+com.loan.play.rupee.lend.credit.cash.dhan.innovinity.fastcredit,Finance,instant loan
+com.uucash,Finance,instant loan
+com.india.cashking.mobi,Finance,instant loan
+com.cash.instantloan,Finance,instant loan
+com.cashloan.loan,Finance,instant loan
+com.cashindihub.inapp,Finance,instant loan
+com.fastpaisa.money.cash.credit.rupee.loan.lend.app,Finance,instant loan
+com.loan.cash.cashbull.credit.dhan.udhaar.lend.game.jaldi.paisa.borrow.rupee.pay,Finance,instant loan
+com.fastcashloan.instant.loan.approvalloan,Finance,instant loan
+com.reglobe.cashify,Shopping,used electronics marketplace
+personal.expense.budget.pocket.moneytracker,Finance,expense tracker
+com.pocketly,Finance,instant loan
+com.sudhapocket,Finance,instant loan
+com.vashupocket,Finance,instant loan
+com.bbnpocket,Finance,instant loan
+com.radio.pocketfm,Entertainment,audio streaming
+com.pocket.market.loan,Finance,instant loan
+com.chelsipocket,Finance,instant loan
+com.pocket.market.loan.pro,Finance,instant loan
+com.appnext.core,Utilities,ad library
+com.freeconferencecall.fccmeetingclient,Messaging,video conferencing
+com.free.unlimited.lemon.vpn,Utilities,VPN
+com.free.unblock.melon.vpn,Utilities,VPN
+com.free.neo.vpn,Utilities,VPN
+com.free.turbo.unlimited.touch.vpn,Utilities,VPN
+com.freerdp.afreerdp,Utilities,remote desktop
+com.freelancer.android.messenger,Business,freelance job platform
+com.freedomrewardz,Finance,loyalty rewards
+com.sec.android.app.shealth,Health,fitness tracking
+com.sec.android.app.popupcalculator,Utilities,calculator
+com.sec.android.app.music,Entertainment,music player
+com.secure.wifi.bioo,Utilities,wifi security
+com.sec.android.app.voicenote,Utilities,voice recorder
+com.sec.android.app.sbrowser,Utilities,web browser
+com.sec.android.app.samsungapps,Utilities,app store
+com.xiaomi.midrop,Utilities,file transfer
+com.otpless.app,Utilities,authentication SDK
+com.devadvance.rootcloak6,Utilities,root hiding tool
+com.devadvance.rootcloakplus,Utilities,root hiding tool
+com.devadvance.rootcloak5,Utilities,root hiding tool
+com.devadvance.rootcloak2,Utilities,root hiding tool
+com.devadvance.rootcloak0,Utilities,root hiding tool
+com.devadvance.rootcloak8,Utilities,root hiding tool
+com.devadvance.rootcloak,Utilities,root hiding tool
+com.devadvance.rootcloak1,Utilities,root hiding tool
+com.devadvance.rootcloak9,Utilities,root hiding tool
+com.devadvance.rootcloak7,Utilities,root hiding tool
+com.devadvance.rootcloak3,Utilities,root hiding tool
+com.devadvance.rootcloak4,Utilities,root hiding tool
+com.hynsdsuweior.ayiofd.jdhfs,Utilities,unknown tool
+oses.moveme.ntofthe,Utilities,unknown tool
+com.scee.psxandroid,Entertainment,gaming companion
+com.zoomcar,Travel,self-drive car rental
+org.xbet.client.ng_ps,Gaming,sports betting
+com.hdbfs.emicard,Finance,loans
+com.fampay.in,Payment,prepaid card payments
+com.google.ar.lens,Utilities,image recognition
+com.vivo.easyshare,Utilities,file transfer
+videoplayer.videodownloader.downloader,Utilities,video downloader
+com.smallcase.android,Finance,investments
+com.cjmhrewxrhfknif.game3pattimoney,Gaming,card game (Teen Patti)
+com.dns.fredaloader,Utilities,unknown tool
+com.jpl.jiomart,Shopping,online grocery shopping
+com.topjohnwu.magisk,Utilities,device rooting
+com.cgt.bharatgas,Lifestyle,gas booking
+com.ideacellular.myidea,Utilities,telecom services
+com.hs.rtovehicledetail.vahan.vehicleregistrationdetails.rtoapp,Utilities,vehicle info
+com.thwart.four.global.vaicevidcall,Messaging,video calling
+com.google.android.apps.youtube.music,Entertainment,music streaming
+com.paypal.android.p2pmobile,Payment,digital payments
+in.thirdwavecoffee.android,Lifestyle,food & drink
+com.balaji.mykhata,Finance,accounting ledger
+com.gpfincorp.kredeitmore,Finance,loans
+com.paypointz.wallet,Payment,wallet/UPI
+com.netway.phone.advice,Utilities,phone guide
+com.new_new_year.Quotes.ranjantech.App,Lifestyle,quotes & greetings
+com.innofinsolutions.lendenclubborrower,Finance,loans
+net.diflib.recorderx,Utilities,voice recorder
+com.wonderhfl.customer,Finance,loans
+com.explurgerapp,Social,social network
+com.kutumb.android,Social,community social
+com.jar.app,Finance,micro-savings
+com.shiprocket.shiprocket,Business,shipping management
+com.yellowes.su,Others,unknown
+dev.robv.android.xposed.installer,Utilities,system modding
+com.pilav.kismet,Lifestyle,astrology
+com.trulymadly.android.app,Lifestyle,dating
+com.swiftpayco.in,Payment,digital payments
+p.alpemixtest8,Others,unknown
+com.rox.tractor.trolley.game.simulator,Gaming,driving simulator game
+com.bingo.livetalk,Social,live video chat
+com.digitaldukaan,Business,online store builder
+com.jetstartgames.chess,Gaming,board game
+com.cleartrip.android,Travel,travel booking
+com.makemytrip,Travel,travel booking
+com.yatra.base,Travel,travel booking
+com.booking,Travel,hotel booking
+com.agoda.mobile.consumer,Travel,hotel booking
+com.easemytrip.android,Travel,travel booking
+com.bomgar.thinclient.android,Utilities,remote support
+com.duolingo,Education,language learning
+com.techvedanta.mobile_khaata,Finance,business accounting
+com.Splitwise.SplitwiseMobile,Finance,expense splitting
+pdf.tap.scanner,Utilities,document scanner
+com.dsg.TerzoMillineo.extreme.cardriving.simulator,Gaming,driving simulator game
+com.offroad.formula.car.simulator,Gaming,driving simulator game
+com.supercell.clashofclans,Gaming,strategy game
+com.crapps.vahanregistrationdetails,Utilities,vehicle info
+com.logmein.gotowebinar,Messaging,webinar conferencing
+com.twelve.club,Finance,investment & lending
+com.clikfin.clikfinapplication,Finance,instant loan
+com.magicpin.local,Lifestyle,local deals & rewards
+com.borrowerapp,Finance,instant loan
+com.opera.mini.native,Utilities,web browser
+com.mi.global.bbs,Social,community forum
+com.atdmoney.app,Finance,instant loan
+com.capitalfirst.connector,Finance,loans
+com.starbucks.mobilecard,Lifestyle,food & drink loyalty
+com.mmadapps.modicare,Shopping,direct selling marketplace
+com.google.android.videos,Entertainment,video streaming
+com.google.android.apps.adwords,Business,advertising management
+com.urbanladder.catalog,Shopping,furniture shopping
+com.remoteutilities.mviewer,Utilities,remote desktop
+com.google.android.apps.nbu.files,Utilities,file manager
+com.expertoption,Finance,trading platform
+co.giva.jewellery,Shopping,jewelry shopping
+com.zerodha.kite3,Finance,stock trading
+com.android.sdktools.logcat,Utilities,developer tool
+org.proxydroid,Utilities,proxy tool
+com.mantra.rdservice,Utilities,biometric authentication service
+com.app.yelonow,Finance,loan & credit info
+com.quackquack,Lifestyle,dating
+com.sharekhan.androidsharemobile,Finance,stock trading
+com.rectcom.doulaytning.etmula,Social,short video sharing
+com.eterno.shortvideos,Social,short video sharing
+com.bigbasket.saathi,Delivery,delivery partner app
+com.nokoprint,Utilities,printing
+com.indiabullsamc.investorapp,Finance,investments
+com.sportshark.giman,Others,unknown
+ticketnew.android.ui,Entertainment,event/movie ticket booking
+com.macom.asirvadcollection,Finance,microfinance
+com.door.offroad.modern.drive.rickshaw,Gaming,driving simulator game
+com.poncho.eatclub,Delivery,food delivery
+com.diamond.freefire.freediamond,Gaming,game utility
+com.chaipoint.chaipointblack,Lifestyle,food & drink
